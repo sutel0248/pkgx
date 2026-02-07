@@ -5,7 +5,7 @@
       "name": "MyTool",
       "version": "1.2.0",
       "type": "application",
-      "url": "https://raw.githubusercontent.com/sutel0248/pkgx/8698bb93ff74d58c891ca722675ce618da92774f/packages/mytool.xyzpkg",
+      "url": "https://raw.githubusercontent.com/sutel0248/pkgx/refs/heads/main/packages/mytool.xyzpkg",
       "sha256": "OPTIONAL_HASH"
     }
   ]
