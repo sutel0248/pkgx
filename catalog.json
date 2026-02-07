@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "id": "mytool",
+      "name": "MyTool",
+      "version": "1.2.0",
+      "type": "application",
+      "url": "https://github.com/sutel0248/pkgx/blob/main/packages/mytool.xyzpkg"
+    }
+  ]
+}
